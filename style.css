@@ -25,6 +25,7 @@ body {
 
 .blog-content {
     display: flex;
+    flex-direction: column;
     height: 10em;
     width:40vw;
 }
